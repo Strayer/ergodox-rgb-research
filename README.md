@@ -16,4 +16,4 @@ LED matrix driver used in Massdrop ALT: http://www.issi.com/WW/pdf/IS31FL3733.pd
 
 ![helix PCB with LED](https://camo.githubusercontent.com/a498de6efb009c66842fb6176b81c06a9d53eb13/68747470733a2f2f692e696d6775722e636f6d2f6f6d55593061632e6a70673f32)
 
-[MX switch hot swap PCB socket](https://www.aliexpress.com/item/Kailh-hot-swapping-pcb-sockets-for-mx-cherry-gateron-outemu-kailh-switches-for-xd75-series-smd/32903471019.html)
+[MX switch hot swap PCB socket](https://www.aliexpress.com/item/Kailh-hot-swapping-pcb-sockets-for-mx-cherry-gateron-outemu-kailh-switches-for-xd75-series-smd/32903471019.html) - [Datasheet](https://cdn.shopify.com/s/files/1/3099/8088/files/CPG151101S11_MX_Socket.pdf) - [KiCAD footprints](https://github.com/daprice/keyswitches.pretty)
